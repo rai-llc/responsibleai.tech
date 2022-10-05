@@ -1,0 +1,4 @@
+baseURL = 'https://responsibleai.tech'
+languageCode = 'en-us'
+title = 'Responsible Artificial Intelligence LLC'
+theme = 'ananke'

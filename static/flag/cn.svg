@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="72"
+   height="50.666668"
+   viewBox="0 0 2.4 1.6888889"
+   version="1.1"
+   id="svg1031"
+   sodipodi:docname="cn.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1033"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-left="4"
+     fit-margin-right="4"
+     fit-margin-top="4"
+     fit-margin-bottom="4"
+     inkscape:zoom="1.0416667"
+     inkscape:cx="62.88"
+     inkscape:cy="50.4"
+     inkscape:window-width="1296"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1031" />
+  <defs
+     id="defs1017">
+    <path
+       id="s"
+       d="M 0,-1 0.587785,0.809017 -0.951057,-0.309017 H 0.951057 L -0.587785,0.809017 Z"
+       fill="#ffff00" />
+  </defs>
+  <rect
+     width="2.1333334"
+     height="1.4222223"
+     fill="#ee1c25"
+     id="rect1019"
+     x="0.13333334"
+     y="0.13333334"
+     style="stroke-width:0.0711111" />
+  <use
+     xlink:href="#s"
+     transform="matrix(0.21333333,0,0,0.21333333,0.48888894,0.4888888)"
+     id="use1021"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#s"
+     transform="matrix(0.06544053,0.02782673,-0.02782673,0.06544053,0.84444394,0.2755555)"
+     id="use1023"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#s"
+     transform="matrix(0.04951395,0.05104075,-0.05104075,0.04951395,0.98666694,0.4177777)"
+     id="use1025"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#s"
+     transform="matrix(0.0243851,0.06679938,-0.06679938,0.0243851,0.98666694,0.6311111)"
+     id="use1027"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#s"
+     transform="matrix(0.06653808,0.02508932,-0.02508932,0.06653808,0.84444394,0.7733333)"
+     id="use1029"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+</svg>

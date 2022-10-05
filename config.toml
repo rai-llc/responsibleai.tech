@@ -2,3 +2,51 @@ baseURL = 'https://responsibleai.tech'
 languageCode = 'en-us'
 title = 'Responsible Artificial Intelligence LLC'
 theme = 'ananke'
+googleAnalytics = "G-55LMT8P8F5"
+enableRobotsTXT = true
+
+[[menu.main]]
+  identifier = 'about'
+  name = 'Jiahao'
+  url = '/about/'
+  weight = 100
+
+[[menu.main]]
+  identifier = 'posts'
+  name = 'Updates'
+  url = '/posts/'
+  weight = 110
+
+[[menu.main]]
+  identifier = 'substack'
+  name = 'Substack'
+  url = 'https://raillc.substack.com'
+  weight = 120
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+author = "Jiahao Chen"
+favicon = "brand/rai-llc-logo-sm.png"
+site_logo = "brand/rai-llc-logo-sm.png"
+description = "Consultancy services for AI/ML and its uses in regulated industries"
+
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://facebook.com/responsibleai"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/rai-llc"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/company/rai-llc"
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/llc_rai"
+

@@ -2,109 +2,134 @@
 title: Responsible Artificial Intelligence LLC
 ---
 
-# About Responsible AI LLC
+# About Responsible Artificial Intelligence LLC
 
-Responsible AI LLC was started by Jiahao Chen in September 2022 to provide his consultancy services on artificial intelligence and its uses in regulated industries such as financial services, employment, education, and healthcare.
+Responsible Artificial Intelligence LLC ("Responsible AI LLC" or "RAI LLC") was started by [Jiahao Chen](/about) in September 2022 to provide his consultancy services on artificial intelligence and its uses in regulated industries such as financial services, employment, education, and healthcare.
 
-# About Jiahao
 
-Jiahao left an academic career at MIT for industry in 2017. At that time, the deep learning revolution was in full-swing, but many of the impressive advancements were not in universities, but in companies. He became a Senior Manager of Data Science at Capital One focusing on machine learning research for credit analytics and retail operations. Jiahao shipped his first models in production---one based on logistic regression---and felt like he'd suffered a bait and switch. Instead of the latest and greatest in neural networks, why did he ship a model based on decades-old statistics that he used to teach at MIT? It turns out that banking regulations require models have behaviors that are understandable to humans, and must be proven to be non-discriminatory before they can be used.
+## What is responsible AI?
 
-Jiahao became interested in fairness and explainability in AI/ML, and how to use state-of-the-art research techniques to address compliance needs. Jiahao started the responsible machine learning group at Capital One as a result, and brought those interests to JPMorgan Chase as a Director of AI Research. By the time Jiahao left in 2021, he was part of the leadership that oversaw the department's growth to almost 70 full-time PhDs, as well as developing new techniques for fair lending compliance review and model risk management for  AI/ML systems. Jiahao co-founded a startup where he developed new risk management techniques for employment decision systems, and closed his first revenue sustaining customer just six months into the startup.
+Responsible AI is often presented as an umbrella term for fairness, explainability, privacy, security, trustworthiness, accountability, and related concerns.
+Instead, we adopt a simpler, more general definition:
 
-When still in academia, Jiahao was a Research Scientist at MIT CSAIL where he co-founded and led the Julia Lab, focusing on applications of the Julia programming language to data science, scientific computing, and machine learning. Jiahao has organized JuliaCon, the Julia conference, for the years 2014-2016, as well as organized workshops at NeurIPS, SIAM CSE, and the American Chemical Society National Meetings. Jiahao has authored over 120 packages for numerical computation, data science and machine learning for the Julia programming language, in addition to numerous contributions to the base language itself.
+> Responsible AI systems are built and operated that take into account the needs of multiple stakeholders
+
+Different stakeholders bring different concerns to the table, which naturally encompass the various concerns that are often treated as a simple checklist to be completed before shipment.
+However, different people have different needs and desires, which are rarely aligned in practice.
+Therefore, we believe that the root problem to solve in responsible AI is not simply to address a checklist of concerns,
+but rather to manage multiple objectives which are often in conflict.
+A true responsible AI solution must necesssarily be designed, built and operated with awareness of these conflicting needs,
+and include strategies for .
+Only by doing so will the risks of using responsible AI solutions be properly managed
+and its value fully realized by everyone affected.
+
+
+### Responsible AI in practice
+
+Responsible AI LLC brings you the very latest expertise in compliance and risk management for AI/ML systems, even as regulations continue to evolve month to month. 
+
+*Financial regulatory compliance.*
+We bring extensive experience in building and deploying AI/ML systems in major financial institutions.
+These environments operate under strict compliance requirements,
+ranging from:
+- data management requirements under international Basel IIIanti-discrimination standards
+  [(BCBS 239)](https://en.wikipedia.org/wiki/BCBS_239),
+- model risk management standards like
+  [OCC 11-12 / SR 11-7](https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm)
+  in the US, and upcoming prudential regulations in the UK outlined in
+  [CP 6/22](https://www.bankofengland.co.uk/prudential-regulation/publication/2022/june/model-risk-management-principles-for-banks),
+- and anti-discrimination and fair lending compliance like
+  [Regulation B](https://www.consumerfinance.gov/rules-policy/regulations/1002/)
+  and the
+  [Equal Credit Opportunity Act (ECOA)](https://www.govinfo.gov/content/pkg/USCODE-2011-title15/html/USCODE-2011-title15-chap41-subchapIV.htm)
+  in the US.
+
+*Employment regulatory compliance.*
+Governments are increasingly passing new laws imposing requirements on AI systems used in employment decisions.
+Notably, New York City passed a
+[law on automated employment decision tools (AEDT)](https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=4344524&GUID=B051915D-A9AC-451E-81F8-6596032FA3F9)
+which takes effect on January 1, 2023.
+[Proposed Rules](https://rules.cityofnewyork.us/rule/automated-employment-decision-tools-2/)
+for compliance were only published recently on September 23, 2022,
+which notably contain several requirements that are stricter than
+the US federal requirements under the
+[Equal Employment Opportunity Act (EEOA)](https://uscode.house.gov/view.xhtml?path=/prelim@title42/chapter21/subchapter6&edition=prelim)
+and the many subsequent federal employmnent laws.
+
+*Regulatory divergence.*
+Compliance requirements can vary across national, state and local juridisctions,
+and a compliant solution must take into account such regulatory divergence.
+Even in something seemingly clear-cut like anti-discrimination laws,
+different jurisdictions define different taxonomies of protected classes,
+even down to different taxonomies for categories like race,
+and have different testing requirements that may or may not account for
+intersectionality and data availability.
+Responsible AI LLC provides the very latest expertise on delivering compliant solutions taking into account the real-world complexities around data management, model lifecycle, and operational challenges encounteres in the real world, while continuing to deliver business value.
+
+## Services provided
+
+Responsible AI LLC can work with your data science and MLOps teams to:
+
+- identify and manages multiple conflicting objectives,
+- translate ambiguous policies and evolving regulatory standards into practical operational requirements,
+- rapid prototyping to explore the design space of potential solutions,
+- quantify and manage trade-offs, and
+- incorporate all these concerns into the design and operation of responsible AI solutions.
+
+Responsible AI LLC also provides algorithmic auditing services for
+
+- certifying compliance with current and upcoming regulations,
+- identify, manage and remediate potential risks of using AI systems, and
+- provide expert witness testimony on how compliance needs are addressed in practice.
 
 
 ## Trusted expertise
 
-Jiahao has published extensively in the academic literature. View Jiahao's academic publications on 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=TQYNuFAAAAAJ&view_op=list_works&sortby=pubdate) | 
-[DBLP](https://dblp.org/pid/149/2661-1.html) | [![arXiv](/logo/arxiv.png)](https://arxiv.org/a/chen_j_2.html) | [SSRN](https://ssrn.com/author=3249612) | [![ORCID](https://arxiv.org/icons/orcid_16x16.png)](https://orcid.org/0000-0002-4357-6574)
-
-
-Jiahao has worked at multiple top organizations around the world.
+Responsible AI LLC is fully owned and operated by [Jiahao Chen](/about/),
+a respected AI researcher and practitioner who has
+published [many academic papers](https://scholar.google.com/citations?hl=en&user=TQYNuFAAAAAJ&view_op=list_works&sortby=pubdate)
+and has worked at multiple top organizations around the world.
 
 [![University of Illinois at Urbana-Champaign](/logo/illinois-with-text.svg)](https://illinois.edu)
-[![Ritsumeikan University](/logo/ritsumeikan-with-text.svg)](https://en.ritsumei.ac.jp/)
 [![MIT](/logo/mit-with-text.svg)](https://mit.edu)
-[![DSO National Laboratories](/logo/dso-with-text.png)](https://www.dso.org.sg/)
 [![Capital One](/logo/capital-one.svg)](https://capitalone.com)
 [![JPMorgan Chase & Co.](/logo/jpmc.svg)](https://jpmorganchase.com)
-![Parity Technologies](/logo/parity-with-text.svg)
 
+Jiahao's expertise is widely sought after by many other organizations worldwide.
+In the past year, these included government agencies like:
 
-Jiahao's expertise in responsible AI is widely sought after by universities, governments, and companies worldwide.
+[![Financial Services Agency](/logo/fsa-with-text.png)](https://www.fsa.go.jp/en)
+[![Information Commissioner's Office](/logo/ico-with-text.svg)](https://ico.org.uk)
+[![National Institute of Standards and Technology](/logo/nist.svg)](https://nist.gov)
+[![Consumer Financial Protection Bureau](/logo/cfpb-with-text.svg)](https://consumerfinance.gov)
 
+companies like:
 
-![China](/flag/cn.svg)
-![Wecash](/logo/wecash.png)
-
-
-![France](/flag/fr.svg)
-[![INRIA](/logo/inria.svg)](https://inria.fr)
-[![Schlumberger](/logo/schlumberger.svg)](https://slb.com)
-
-
-![Germany](/flag/de.svg)
+[![Beamery](/logo/beamery-with-text.png)](https://beamery.com)
 [![Deutsche Bank](/logo/db-with-text.svg)](https://db.com)
 
+and researchers at universities like:
 
-![Japan](/flag/jp.svg)
-[![Financial Services Agency](/logo/fsa-with-text.png)](https://www.fsa.go.jp/en)
-[![Kumamoto University](/logo/kumamoto.svg)](https://kumamoto-u.ac.jp)
-[![Nagoya University](/logo/nagoya.svg)](https://nagoya-u.ac.jp)
-[![Osaka University](/logo/osaka.svg)](https://osaka-u.ac.jp)
-
-
-![Poland](/flag/pl.svg)
+[![Columbia University](/logo/columbia-with-text.svg)](https://columbia.edu)
+[![Howard University](/logo/howard-with-text.svg)](https://howard.edu)
+[![New York University](/logo/nyu-with-text.svg)](https://nyu.edu)
+[![North Carolina Agricultural and Technical State University](/logo/ncat-with-text.svg)](https://ncat.edu)
+[![Tufts University](/logo/tufts.svg)](https://tufts.edu)
+[![University of California, Los Angeles](/logo/ucla.svg)](https://ucla.edu)
 [![Warsaw School of Economics](/logo/warsaw-with-text.svg)](https://sgh.waw.pl)
 
+# Stay current with responsible AI
 
-![Singapore](/flag/sg.svg)
-[![National University of Singapore](/logo/nus-with-text.svg)](https://nus.edu.sg)
+Responsible AI is evolving rapidly.
+Every month, new laws are passed,
+existing regulations are updated to cover AI/ML systems,
+and new policy and AI research continues to be published at an exponential rate.
 
-
-![Sweden](/flag/se.svg)
-[![Umeå University](/logo/umea-with-text.svg)](https://umu.se)
-
-
-![United Kingdom](/flag/uk.svg)
-[![Information Commissioner's Office](/logo/ico-with-text.svg)](https://ico.org.uk)
-[![University of Cambridge](/logo/cambridge-with-text.png)](https://cam.ac.uk)
-[![The University of Manchester](/logo/manchester-with-text.svg)](https://manchester.ac.uk)
-[![Beamery](/logo/beamery-with-text.png)](https://beamery.com)
-
-
-![United States](/flag/us.svg)
-[![Consumer Financial Protection Bureau](/logo/cfpb-with-text.svg)](https://consumerfinance.gov)
-[![National Institute of Standards and Technology](/logo/nist.svg)](https://nist.gov)
-[![DARPA](/logo/darpa.png)](https://darpa.mil)
-[![New York University](/logo/nyu-with-text.svg)](https://nyu.edu)
-[![Howard University](/logo/howard-with-text.svg)](https://howard.edu)
-[![University of California, Los Angeles](/logo/ucla.svg)](https://ucla.edu)
-[![Stanford University](/logo/stanford-with-text.png)](https://stanford.edu)
-[![Harvard University](/logo/harvard-with-text.svg)](https://harvard.edu)
-[![Columbia University](/logo/columbia-with-text.svg)](https://columbia.edu)
-[![Tufts University](/logo/tufts.svg)](https://tufts.edu)
-[![North Carolina Agricultural and Technical StateUniversity](/logo/ncat-with-text.svg)](https://ncat.edu)
-[![Princeton University](/logo/princeton-with-text.svg)](https://princeton.edu)
-[![Cornell University](/logo/cornell-with-text.svg)](https://cornell.edu)
-[![Boston University](/logo/bu.svg)](https://bu.edu)
-[![The University of Chicago](/logo/chicago-with-text.svg)](https://chicago.edu)
-[![University of California, San Diego](/logo/ucsd.svg)](https://ucsd.edu)
-[![IBM](/logo/ibm.svg)](https://ibm.com)
-[![Intel](/logo/intel.svg)](https://intel.com)
-[![S&P Global](/logo/spglobal.svg)](https://spglobal.com)
-[![Partnership on AI](/logo/pai-with-text.png)](https://partnershiponai.org)
-
-# Subscribe
-
-Subscribe to RAI LLC's Substack for periodic reviews of the latest developments in academic research, government policy and community events. [![Substack](/logo/substack.png)](https://raillc.substack.com)
+Responsible AI LLC is pleased to offer _This month in responsible AI_,
+a newsletter containing brief surveys of the latest developments in academic research,
+government policy, and community events.
+Subscribe for free on [![Substack](/logo/substack.png)](https://raillc.substack.com).
 
 # Contact
 
 {{< form-contact action="https://formspree.io/cjiahao@gmail.com" >}}
-
----
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ee2cee20-af06-453b-b3f2-dd8865ac941e/deploy-status)](https://app.netlify.com/sites/responsible-ai-llc/deploys)

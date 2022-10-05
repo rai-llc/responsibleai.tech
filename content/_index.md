@@ -6,8 +6,21 @@ title: Responsible Artificial Intelligence LLC
 
 Responsible AI LLC was started by Jiahao Chen in September 2022 to provide his consultancy services on artificial intelligence and its uses in regulated industries such as financial services, employment, education, and healthcare.
 
+# About Jiahao
+
+Jiahao left an academic career at MIT for industry in 2017. At that time, the deep learning revolution was in full-swing, but many of the impressive advancements were not in universities, but in companies. He became a Senior Manager of Data Science at Capital One focusing on machine learning research for credit analytics and retail operations. Jiahao shipped his first models in production---one based on logistic regression---and felt like he'd suffered a bait and switch. Instead of the latest and greatest in neural networks, why did he ship a model based on decades-old statistics that he used to teach at MIT? It turns out that banking regulations require models have behaviors that are understandable to humans, and must be proven to be non-discriminatory before they can be used.
+
+Jiahao became interested in fairness and explainability in AI/ML, and how to use state-of-the-art research techniques to address compliance needs. Jiahao started the responsible machine learning group at Capital One as a result, and brought those interests to JPMorgan Chase as a Director of AI Research. By the time Jiahao left in 2021, he was part of the leadership that oversaw the department's growth to almost 70 full-time PhDs, as well as developing new techniques for fair lending compliance review and model risk management for  AI/ML systems. Jiahao co-founded a startup where he developed new risk management techniques for employment decision systems, and closed his first revenue sustaining customer just six months into the startup.
+
+When still in academia, Jiahao was a Research Scientist at MIT CSAIL where he co-founded and led the Julia Lab, focusing on applications of the Julia programming language to data science, scientific computing, and machine learning. Jiahao has organized JuliaCon, the Julia conference, for the years 2014-2016, as well as organized workshops at NeurIPS, SIAM CSE, and the American Chemical Society National Meetings. Jiahao has authored over 120 packages for numerical computation, data science and machine learning for the Julia programming language, in addition to numerous contributions to the base language itself.
+
 
 ## Trusted expertise
+
+Jiahao has published extensively in the academic literature. View Jiahao's academic publications on 
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=TQYNuFAAAAAJ&view_op=list_works&sortby=pubdate) | 
+[DBLP](https://dblp.org/pid/149/2661-1.html) | [![arXiv](/logo/arxiv.png)](https://arxiv.org/a/chen_j_2.html) | [SSRN](https://ssrn.com/author=3249612) | [![ORCID](https://arxiv.org/icons/orcid_16x16.png)](https://orcid.org/0000-0002-4357-6574)
+
 
 Jiahao has worked at multiple top organizations around the world.
 
@@ -84,10 +97,14 @@ Jiahao's expertise in responsible AI is widely sought after by universities, gov
 [![S&P Global](/logo/spglobal.svg)](https://spglobal.com)
 [![Partnership on AI](/logo/pai-with-text.png)](https://partnershiponai.org)
 
+# Subscribe
 
-Follow Responsible AI LLC on our social media platforms
-[![Twitter](/logo/twitter-handle.svg)](https://twitter.com/llc_rai)
-[![Substack](/logo/substack.png)](https://raillc.substack.com)
+Subscribe to RAI LLC's Substack for periodic reviews of the latest developments in academic research, government policy and community events. [![Substack](/logo/substack.png)](https://raillc.substack.com)
+
+# Contact
+
+{{< form-contact action="https://formspree.io/cjiahao@gmail.com" >}}
+
+---
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ee2cee20-af06-453b-b3f2-dd8865ac941e/deploy-status)](https://app.netlify.com/sites/responsible-ai-llc/deploys)
-

@@ -9,7 +9,7 @@ Responsible Artificial Intelligence LLC ("Responsible AI LLC" or "RAI LLC") was 
 
 ## What is responsible AI?
 
-Responsible AI is often presented as an umbrella term for fairness, explainability, privacy, security, trustworthiness, accountability, and related concerns.
+Responsible AI is often presented as an umbrella term for AI that incorporates ethics, fairness, explainability, privacy, security, trustworthiness, accountability, and related concerns.
 Instead, we adopt a simpler, more general definition:
 
 > Responsible AI systems are built and operated that take into account the needs of multiple stakeholders
@@ -18,8 +18,8 @@ Different stakeholders bring different concerns to the table, which naturally en
 However, different people have different needs and desires, which are rarely aligned in practice.
 Therefore, we believe that the root problem to solve in responsible AI is not simply to address a checklist of concerns,
 but rather to manage multiple objectives which are often in conflict.
-A true responsible AI solution must necesssarily be designed, built and operated with awareness of these conflicting needs,
-and include strategies for .
+A true ethical and responsible AI solution must necesssarily be designed, built and operated with awareness of these conflicting needs,
+and include strategies for identifying and managing risks and harms that may emerge over its lifecycle.
 Only by doing so will the risks of using responsible AI solutions be properly managed
 and its value fully realized by everyone affected.
 

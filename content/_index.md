@@ -32,7 +32,7 @@ Responsible AI LLC brings you the very latest expertise in compliance and risk m
 We bring extensive experience in building and deploying AI/ML systems in major financial institutions.
 These environments operate under strict compliance requirements,
 ranging from:
-- data management requirements under international Basel IIIanti-discrimination standards
+- data management requirements under international Basel III standards
   [(BCBS 239)](https://en.wikipedia.org/wiki/BCBS_239),
 - model risk management standards like
   [OCC 11-12 / SR 11-7](https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm)

@@ -1,0 +1,34 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Chen;Jiahao;;Dr.;
+NICKNAME;CHARSET=UTF-8:陳家豪
+FN;language=en:Jiahao Chen
+FN;CHARSET=UTF-8;language=zh-TW:陳家豪
+ORG:Responsible Artificial Intelligence LLC;
+TITLE:President and Owner
+EMAIL;type=INTERNET;type=HOME:cjiahao@gmail.com
+EMAIL;type=INTERNET;type=WORK;type=pref:jiahao@responsibleai.tech
+TEL;type=CELL:+65 8292 7658
+TEL;type=CELL:+1 (617) 953-8640
+ADR;type=WORK:;;450 Lexington Ave Unit 609;New York;NY;10163-9619;USA
+GENDER:M
+URL;type=HOME:jiahao.me
+URL;type=WORK;type=pref:responsibleai.tech
+X-SOCIALPROFILE;type=twitter:https://twitter.com/acidflask
+X-SOCIALPROFILE;type=twitter:https://twitter.com/llc_rai
+X-SOCIALPROFILE;type=linkedin:https://linkedin.com/in/jiahao
+X-SOCIALPROFILE;type=linkedin;https://linkedin.com/in/company/rai-llc
+X-SOCIALPROFILE;type=facebook:https://facebook.com/responsibleai
+FBURL:https://calendar.google.com/calendar/ical/cjiahao%40gmail.com/public/basic.ics
+CALADRURI:https://calendly.com/jiahaochen
+LANG:en-SG
+LANG:zh-SG
+LOGO;PNG:https://responsibleai.tech/brand/rai-llc-logo-sm.png
+KEY;MEDIATYPE=application/pgp-signature:https://responsibleai.tech/id/jiahaochen.pub
+PHOTO;MEDIATYPE=image/jpeg:https://responsibleai.tech/id/headshot.jpg
+SOURCE:https://responsibleai.tech/id/jiahaochen.vcf
+TZ:America/New_York
+KIND:individual
+SOUND;MEDIATYPE=audio/aac:https://responsibleai.tech/id/chenjiahao.aac
+REV:20221013T223100Z
+END:VCARD

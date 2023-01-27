@@ -50,3 +50,9 @@ url = "https://www.linkedin.com/company/rai-llc"
 name = "twitter"
 url = "https://twitter.com/llc_rai"
 
+[[params.ananke_socials]]
+name = "mastodon"
+url = "https://mastodon.social/@responsibleai"
+rel = "me noopener"
+
+

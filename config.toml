@@ -13,7 +13,7 @@ enableRobotsTXT = true
 
 [[menu.main]]
   identifier = 'posts'
-  name = 'Updates'
+  name = 'Posts'
   url = '/posts/'
   weight = 110
 

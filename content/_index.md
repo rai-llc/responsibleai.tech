@@ -132,4 +132,4 @@ Subscribe for free on [![Substack](/logo/substack.png)](https://raillc.substack.
 
 # Contact
 
-{{< form-contact action="https://formspree.io/cjiahao@gmail.com" >}}
+{{< form-contact action="https://formspree.io/f/xyyakkrq" >}}

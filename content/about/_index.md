@@ -130,4 +130,4 @@ and researchers at these universities:
 
 # Contact
 
-{{< form-contact action="https://formspree.io/cjiahao@gmail.com" >}}
+{{< form-contact action="https://formspree.io/f/xyyakkrq" >}}

@@ -4,6 +4,8 @@ title: Jiahao Chen
 
 # About Jiahao
 
+
+
 Jiahao left an academic career at MIT for industry in 2017.
 At that time, the deep learning revolution was in full-swing, but many of the impressive advancements were not in universities, but in companies.
 He became a Senior Manager of Data Science at Capital One focusing on machine learning research for credit analytics and retail operations.
@@ -20,6 +22,20 @@ When still in academia, Jiahao was a Research Scientist at MIT CSAIL where he co
 Jiahao has organized JuliaCon, the Julia conference, for the years 2014-2016, as well as organized workshops at NeurIPS, SIAM CSE, and the American Chemical Society National Meetings.
 Jiahao has authored over 120 packages for numerical computation, data science and machine learning for the Julia programming language, in addition to numerous contributions to the base language itself.
 
+
+## Biography
+
+
+![Headshot](/headshot/headshot.jpg)
+
+Jiahao is an independent consultant focusing on global AI governance and risk management.
+His company, Responsible AI LLC (RAI LLC), has diverse clients ranging from
+sovereign wealth funds, startups, enterprises, nonprofits, and government agencies.
+He builds enterprise-ready solutions for developing and deploying responsible AI systems
+in highly regulated industries, taking appropriate global perspectives in AI regulation across
+multiple jurisdictions worldwide.
+Jiahao remains active in [academic machine learning research](https://scholar.google.com/citations?hl=en&user=TQYNuFAAAAAJ&view_op=list_works&sortby=pubdate), including being Area Chair at FAccT and Ethics Chair of NeurIPS.
+Jiahao also consults with nonprofits on open source development and investigative data journalism.
 
 ## Trusted expertise
 

@@ -33,10 +33,9 @@
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
       <description>
-        {{ with .Params.featured_image }} <img src="{{ . }}"></img> {{ end }}
         {{ .Summary | html }}
       </description>
-      {{ with .Params.featured_image }} <enclosure>{{ . }}</enclosure>{{ end }}
+      {{ with .Params.featured_image }}<enclosure>{{. | absURL}}</enclosure>{{ end }}
     </item>
     {{ end }}
   </channel>
